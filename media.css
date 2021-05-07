@@ -1,0 +1,55 @@
+@media screen and (max-width : 600px) {
+.grid-container{
+    grid-template-columns: 100%;
+}
+.imgGirl{
+    height: 250px;
+    width:250px;
+    
+    margin-top:5%;
+}
+.fundImgProp{
+    height:250px;
+    width:250px;
+    margin-top:5%;
+    margin-left:2%;
+}
+.imgMan{
+    height:250px;
+    width:250px;
+    margin-top:5%;
+    margin-left:2%;
+}
+.grid-containerNew
+{
+        grid-template-columns: 100%;
+    margin-top: 5%;
+    margin-left:10%;
+}
+.grid-itemNew{
+    margin-left:-10%;
+}
+.topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .marginLeft20{
+      margin-left: 10%;
+      margin-right:10%;
+  }
+  .imgAlign{
+   margin-left: 10%; 
+}
+}

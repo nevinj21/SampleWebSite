@@ -1,0 +1,168 @@
+.header{
+    display:flex;
+    justify-content: flex-end;
+    
+}
+.btn-properties{
+    margin-left:5px;
+    background: none;
+    border:none;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid transparent;
+    text-shadow: 0px 0px 0px transparent;
+}
+.background-btn{
+    background-color:lightblue;
+}
+.headerSecond{
+    margin-left:5%;
+}
+.second{
+    display:flex;
+}
+.neo{
+    align-items: center;
+    padding-top:7%;
+}
+.neoLogo{
+    height:150px;
+    width:150px;
+}
+
+.margin
+{
+    margin-left:5%;
+    margin-right:5%;
+}
+.grid-container{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    align-content: center;    
+}
+.marginTop2{
+    margin-top:2%;
+}
+.textColor{
+    color:grey;
+}
+.btnStd{
+    background-color: rgb(46, 168, 243);
+    color:white;
+    border:none;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid transparent;
+    text-shadow: 0px 0px 0px transparent;
+    padding:2%;
+    border-radius: 3px;
+}
+.btnStdWithoutBackCOlor{
+    color:rgb(46, 168, 243);
+    border:none;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid transparent;
+    text-shadow: 0px 0px 0px transparent;
+    padding:2%;
+    border-radius: 5px;
+}
+.imgGirl{
+    height:400px;
+    width:400px;
+}
+.backgroundColor{
+    background-color:lightblue;
+    margin:0;
+}
+.marginLeft10{
+    margin-left: 10%;
+}
+.imgProp{
+    height:100px;
+    width:100px;
+}
+.marginTop5{
+    margin-top:5%;
+}
+.flex-container{
+    display:flex;
+    justify-content:space-evenly ;
+}
+.flex{
+    display:flex;
+    align-items:center;
+   
+}
+.marginLeft2{
+margin-left: 2%;
+}
+.fundImgProp{
+    height:300px;
+    width:300px;
+    margin-left:20%;
+}
+.linearGradient{
+    background-image: linear-gradient(lightblue, white);
+    margin-top:5%;
+
+}
+.headingAsk{
+    margin-top:10%;
+}
+.marginLeft20{
+    margin-left: 20%;
+}
+.imgMan{
+    height:400px;
+    width:300px;
+    margin-top:5%;
+}
+.alignCenter{
+    text-align:center;
+}
+.appStore{
+    width:150px;
+    height:50px;
+}
+.colorChange{
+    color:rgb(46, 168, 243);
+}
+.fontSize{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top:0;
+}
+.grid-containerNew{
+    display: grid;
+    grid-template-columns: 50% 20% 20% 10%;
+    margin-top: 5%;
+}
+.hrefProp{
+    text-decoration: none;
+}
+.topnav {
+    
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+
+  
+  /* Add an active class to highlight the current page */
+ 
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+    display: none;
+  }
+
